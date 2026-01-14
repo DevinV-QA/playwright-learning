@@ -45,6 +45,10 @@ Each page encapsulates its own locators and actions to ensure maintainability an
 - Multi-page user flows
 - Test isolation
 - Git & GitHub version control
+- Pytest fixtures
+- Parametrised tests
+- Data-driven testing
+- Test Tagging (smoke / regression)
 
 ---
 
